@@ -9,3 +9,6 @@
 │   ├── estruturas_dados.py
 │   ├── configuracoes.json
 ├── README.md
+
+git clone https://github.com/thierry647/codigo_da_tranformacao_phyton/edit/main/README.md
+
