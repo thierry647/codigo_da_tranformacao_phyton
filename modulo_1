@@ -1,0 +1,5 @@
+def boas_vindas():
+    print("Bem-vindo ao Código da Transformação em Python!")
+
+if __name__ == "__main__":
+    boas_vindas()
